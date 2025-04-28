@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\fredd\\Downloads\\flutter_windows_3.27.3-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\fredd\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\xampp\\htdocs\\Twiva-F-End\\gamification_trivia\\android\\app\\.cxx\\RelWithDebInfo\\665b4a4e\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\fredd\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\xampp\\htdocs\\Twiva-F-End\\gamification_trivia\\android\\app\\.cxx\\RelWithDebInfo\\665b4a4e\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

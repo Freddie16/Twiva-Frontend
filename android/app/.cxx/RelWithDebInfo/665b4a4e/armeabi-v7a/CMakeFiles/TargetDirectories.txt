@@ -1,0 +1,2 @@
+C:/xampp/htdocs/Twiva-F-End/gamification_trivia/android/app/.cxx/RelWithDebInfo/665b4a4e/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/xampp/htdocs/Twiva-F-End/gamification_trivia/android/app/.cxx/RelWithDebInfo/665b4a4e/armeabi-v7a/CMakeFiles/rebuild_cache.dir
